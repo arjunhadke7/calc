@@ -1,0 +1,17 @@
+runApp takes the app class
+
+runApp can take the Material app with home inside it
+
+the Material App can be added to runApp as an arg directly without using the class
+material app does not need the use of scaffold
+without scaffold it will take the entire screen and show text in red with yellow underlines
+
+then if we proceed with material app being passed to myapp
+
+we can add Homescreen to the home: parameter
+
+
+Homescreen can have the scaffold
+
+
+you cannot use scaffold directly, scaffold needs to be used from material app
